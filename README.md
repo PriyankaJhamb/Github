@@ -39,4 +39,3 @@ git push origin master
 ##upload changes to the github##
 
 git push origin branch_name
-# upload_code_on_github
