@@ -65,13 +65,15 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ## Clone repository 
 
-> git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY```
 
 [Reference Link](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/#:~:text=From%20your%20repository%20page%20on,like%20to%20clone%20your%20repository.)
 
 ## Delete some commits from github
 
->git reset --hard <last_working_commit_id>
->git push --force
+```git reset --hard <last_working_commit_id>```
+
+
+```git push --force```
 
 [Reference Link](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch)
