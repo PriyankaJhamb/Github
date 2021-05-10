@@ -77,3 +77,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ```git push --force```
 
 [Reference Link](https://stackoverflow.com/questions/3293531/how-to-permanently-remove-few-commits-from-remote-branch)
+
+## fetch all changes from remote to local
+
+```git fetch --all ``
