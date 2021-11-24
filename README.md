@@ -81,3 +81,10 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ## fetch all changes from remote to local
 
 ```git fetch --all ``
+
+
+git pull origin main
+git push orign branchname
+git branch - Checking the no. of branches, ur current branch
+git checkout branchName
+git checkout -b branchName//creating the branch and switching the branch
