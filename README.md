@@ -92,3 +92,7 @@ git checkout -b branchName//creating the branch and switching the branch
 
 
 git remote remove origin
+
+
+rm -rf .git
+
