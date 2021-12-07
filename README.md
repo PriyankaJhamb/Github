@@ -88,3 +88,7 @@ git push orign branchname
 git branch - Checking the no. of branches, ur current branch
 git checkout branchName
 git checkout -b branchName//creating the branch and switching the branch
+
+
+
+git remote remove origin
